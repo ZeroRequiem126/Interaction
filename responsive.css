@@ -1,0 +1,379 @@
+@media (max-width: 670px ) {
+    
+    .header-right {
+        display: none;
+    }
+    
+    .subtitle {
+        display: none;
+    }
+    
+    .header-logo {
+        padding-left: 10px;
+    }
+    
+    .header-left {
+        padding-top: 2px;
+    }
+    
+    .main-screen {
+        width: 100%;
+    } 
+    
+    .pic1 {
+        padding-top: 20px;
+        margin-left: -3px;
+        max-width: 300px;
+   		height: auto;
+    }
+    
+    .mainsrc-title {
+	    position: absolute;
+	    top: 165px;
+	    left: 90px;
+	}
+	
+	.mainsrc-text {
+		position: absolute;
+	    top: 230px;
+	    left: 40px;
+	    text-align: center;
+	}
+    
+    .mainsrc-icon {
+    	position: absolute;
+	    top: 320px;
+	    left: 100px;
+    }
+    
+    .fa-bookmark {
+	    padding: 16px 50px;
+	    position: relative;
+	    left: 10px;
+	}
+
+	.fa-star {
+	    padding: 16px 0px;
+	    padding-left: 20px;
+	    width: 175px;
+	    position: absolute;
+	    left: 190px;
+	}
+    
+    .article1 img {
+    	margin-left: 35px;
+    }
+    
+    .article1 p {
+    position: absolute;
+    top: 160px;
+    left: 35px;
+	}
+	
+	.article2 img {
+    	margin-left: 35px;
+    	position: absolute;
+	    top: 350px;
+	    left: 0px;
+	 }
+    
+    .article2 p {
+    position: absolute;
+    top: 510px;
+    left: 35px;
+	}
+    
+    .article3 img {
+    	margin-left: 35px;
+    	position: absolute;
+	    top: 700px;
+	    left: 0px;
+	 }
+    
+    .article3 p {
+    position: absolute;
+    top: 860px;
+    left: 35px;
+	}
+	
+	.article4 img {
+    	margin-left: 35px;
+    	position: absolute;
+	    top: 1050px;
+	    left: 0px;
+	 }
+    
+    .article4 p {
+    position: absolute;
+    top: 1210px;
+    left: 35px;
+	}
+	
+	.article5 img {
+    	margin-left: 35px;
+    	position: absolute;
+	    top: 1400px;
+	    left: 0px;
+	 }
+    
+    .article5 p {
+    position: absolute;
+    top: 1560px;
+    left: 35px;
+	}
+	
+	.article6 img {
+    	margin-left: 35px;
+    	position: absolute;
+	    top: 1750px;
+	    left: 0px;
+	 }
+    
+    .article6 p {
+    position: absolute;
+    top: 1910px;
+    left: 35px;
+	}
+	
+	.main-wrapper {
+		height: 3950px;
+	}
+	
+	.switch_article {
+		position: absolute;
+	    top: 2600px;
+	    left: -867px;
+	}
+	
+	.sidebar1 {
+		position: absolute;
+	    top: 2100px;
+	    left: -867px;
+	}
+	
+	.sidebar2 {
+		position: absolute;
+	    top: 2100px;
+	    left: -867px;
+	}
+	
+	.fa-facebook-square {
+		position: absolute;
+	    top: 2px;
+	    left: 70px;
+	}
+    
+    .fa-instagram {
+    	position: absolute;
+	    top: 2px;
+	    left: 140px;
+    }
+    
+    .fa-rss-square {
+    	position: absolute;
+	    top: 0px;
+	    left: 210px;
+    }
+    
+    .sidebar3 {
+    	position: absolute;
+	    top: 2100px;
+	    left: -867px;
+    }
+    
+    .sidebar4 {
+    	position: absolute;
+	    top: 2100px;
+	    left: -867px;
+    }
+    
+    .sidebar5 {
+    	height: 950px;
+    	
+    }
+    
+    .colomn {
+    	margin-left: 8px;
+    	background-color: #E0E4EB;
+    }
+    
+    .title,.link {
+    	margin-left: 20px;
+    }
+    
+    .title2 {
+    position: absolute;
+    top: 280px;
+    left: 0px;
+    margin-left: 25px;
+	}
+	
+	.recent1 {
+	    position: absolute;
+	    margin-left: 25px;
+	    top: 310px;
+	    left: 0px;
+	}
+	
+	.recent2 {
+	    position: absolute;
+	    top: 360px;
+	    left: 0px;
+	    margin-left: 25px;
+	}
+	
+	.recent3 {
+	    position: absolute;
+	    top: 410px;
+	    left: 0px;
+	    margin-left: 25px;
+	}
+    
+    .title3 {
+	    position: absolute;
+	    top: 550px;
+	    left: 0px;
+	    margin-left: 25px;
+	}
+	
+	.link3 {
+	    position: absolute;
+	    top: 600px;
+	    left: 0px;
+	    margin-left: 25px;
+	}
+	
+	.link4 {
+	    position: absolute;
+	    top: 650px;
+	    left: 0px;
+	    margin-left: 25px;
+	}
+	
+	.link5 {
+	    position: absolute;
+	    top: 700px;
+	    left: 0px;
+	    margin-left: 25px;
+	}
+	
+	.link6 {
+	    position: absolute;
+	    top: 750px;
+	    left: 0px;
+	    margin-left: 25px;
+	}
+	
+	.link7 {
+	    position: absolute;
+	    top: 800px;
+	    left: 0px;
+	    margin-left: 25px;
+	}
+	
+	.link8 {
+	    position: absolute;
+	    top: 850px;
+	    left: 0px;
+	    margin-left: 25px;
+	}
+	
+	.link9 {
+	    position: absolute;
+	    top: 900px;
+	    left: 0px;
+	    margin-left: 25px;
+	}
+
+	footer {
+		width: 100%;
+		text-align: left;
+		padding-left: 60px;
+		height: 150px;
+	}
+	
+	
+    /*ハンバーガーメニュー*/
+    .header-right {
+    	height: 260px;
+    }
+    
+    nav {
+		display: none;
+		position: absolute;
+		top: 64px;
+		width: 375px;
+		background:  #60ABE9;
+		left: 0;
+		z-index: 10;
+	}
+	
+	.eachmenu {
+		margin: 0 auto;
+		text-align: center;
+		border-bottom: 1px solid #fff;
+		width: 375px;
+		padding-bottom: 25px;
+	}
+	.eachmenu:last-child{
+		border: none;
+	}
+	.eachmenu {
+		display: block; 
+	}
+	
+	#nav_toggle{
+		display: block;
+		width: 40px;
+		height: 40px;
+		position: relative;
+		top: 17.5px;
+		z-index: 100;
+	}
+	#nav_toggle div {
+		position: relative;
+		top: -50px;
+	}
+	
+	#nav_toggle span{
+		display: block;
+		height: 3px;
+		background: #fff;
+		position:absolute;
+		width: 100%;
+		left: 300px;
+		-webkit-transition: 0.5s ease-in-out;
+		-moz-transition: 0.5s ease-in-out;
+		transition: 0.5s ease-in-out;	
+	}
+	#nav_toggle span:nth-child(1){
+		top:0px;
+	}
+	#nav_toggle span:nth-child(2){
+		top:12px;
+	}
+	#nav_toggle span:nth-child(3){
+		top:24px;
+	}
+	
+	/*開閉ボタンopen時*/
+	.open #nav_toggle span:nth-child(1) {
+			top: 12px;
+		   -webkit-transform: rotate(135deg);
+			-moz-transform: rotate(135deg);
+			transform: rotate(135deg);
+		}
+		.open #nav_toggle span:nth-child(2) {
+			width: 0;
+			left: 50%;
+		}
+		.open #nav_toggle span:nth-child(3) {
+			top: 12px;
+			-webkit-transform: rotate(-135deg);
+			-moz-transform: rotate(-135deg);
+			transform: rotate(-135deg);
+		}
+ 
+    
+    
+}
